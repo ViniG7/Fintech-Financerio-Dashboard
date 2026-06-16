@@ -8,8 +8,8 @@ O FinDashboard é uma interface de controle financeiro criada utilizando HTML, C
 
 ## Tecnologias Utilizadas
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Tailwind CSS
 
 ## Funcionalidades
